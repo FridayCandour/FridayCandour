@@ -1,11 +1,11 @@
-#  it's quite beautiful that programming is still a thing
+#  it's quite beautiful that programming is still a thing, at least the bots hasn't found their place yet -@fridaycandour
 
 <!--
 **FridayCandour/FridayCandour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-#- 🔭 I’m currently working on the Uiedbook JavaScript library
+ 🔭 I’m currently working on the Uiedbook JavaScript library
  and followed by the charren project,
 It's been great expecially with the help and support I get
 from the Devs telegram network, 
@@ -29,13 +29,13 @@ And hope it keeps growing, I desire it's speed and available resources in it too
 Am open for collaboration as am very interested to helping make several solutions come together and achieve 
 Commendable user satisfaction....
 
-- 🤔 I’m looking for help with getting a job as am currently not
+- 😰 I’m looking for help with getting a job as am currently not
 In any workspace, am building personal or useful developers resources
 While on my couch every day...
 
 
 - 💬 Ask me about what makes me write almost bugless and effective code.
-Almost write bugless code but while that can't be a fact am implicitly saying
+I almost write bugless code but while that can't be a fact am implicitly saying
 Am really good with my and I hear a lot of people say it...
 
 
