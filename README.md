@@ -53,3 +53,6 @@ I and he...
 - ⚡ Fun fact: ...
 
 The earth is not getting younger and most people don't care about it, we should take note that there's no other earth, no even close:
+
+
+support me on patreon: https://www.patreon.com/Fridaycandour
