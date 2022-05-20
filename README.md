@@ -25,7 +25,7 @@ Caugth me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 <a href="https://api.whatsapp.com/send?phone=2349131131725&text=Hello%20Friday,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 </a>
-<a href="https://www.twitter.com/uiedbook" alt="Follow Me on Twitter"> 
+<a href="https://www.twitter.com/fridaycandour" alt="Follow Me on Twitter"> 
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/uiedbook" alt="Connect on LinkedIn"> 
