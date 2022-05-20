@@ -17,21 +17,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <a href="https://github.com/fridaycandour/jsonDB">
 <h3>JsonDB data base project</h3>
-</a>  
-
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/fridaycandour/fridaycandour">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olayemii&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/fridaycandour/fridaycandour">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=olayemii&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Olayemii's GitHub Stats" />
-</a>
-
-<a href="https://github.com/fridaycandour/jsonDB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olayemii&repo=flutter-ui-kits&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> 
 
 
 ## 🤝 Contact Me
