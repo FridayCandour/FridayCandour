@@ -1,58 +1,63 @@
-#  it's quite beautiful that programming is still a thing, at least the bots hasn't found their place yet -@fridaycandour
+#  It's quite beautiful that programming is still a thing, at least Bots hasn't found their place yet -@fridaycandour
+
+My name is Olayemii Garuba and I'm a software developer from Lagos, Nigeria 🇳🇬. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+
+## &#x270d; Blog & Tutorials
+
+Apart from coding, I also maintain a blog - you can find my articles on my website at [uiedbook.com](https://uiedbook.com/).
+
+## 🔧 Technologies & Tools
+
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/fridaycandour/cradova">
+<h3>Cradova web frame work base project</h3>
+</a> 
+
+<a href="https://github.com/fridaycandour/uiedbook.js">
+<h3>Uiedbook base project</h3>
+</a> 
+
+
+<a href="https://github.com/fridaycandour/jsonDB">
+<h3>JsonDB data base project</h3>
+</a>  
+
+## 🤝 Contact Me
+
+<a href="https://api.whatsapp.com/send?phone=2349131131725&text=Hello%20Olayemii,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+</a>
+<a href="https://www.twitter.com/iam_olayemii" alt="Follow Me on Twitter"> 
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/olayemi-garuba-424342144" alt="Connect on LinkedIn"> 
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="mailto:olayemiiofficial@gmail.com">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://twitter.com/uiedbook
+[2]: https://github.com/fridaycandour
+[3]: https://www.linkedin.com/in/uiedbook/
+
+
+
+
 
 <!--
 **FridayCandour/FridayCandour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -->
- 🔭 I’m currently working on the Uiedbook JavaScript library
- and followed by the charren project,
-It's been great expecially with the help and support I get
-from the Devs telegram network, 
 
-Uiedbook is a JavaScript library for developing software in JavaScript,
-It makes you write less and yet build outstanding software,
-It's enables you focus more on the problem than the tool you use,
-
-It's notable features are speed simplicity and modern approach..
-
-
-- 🌱 I’m currently learning Go ...
-
-In order to build and establish awesome backend software,
-I have ventured into learning Go, I believe it's one of the best solutions available today,
-And hope it keeps growing, I desire it's speed and available resources in it toolbelt...
-
-
+ 🔭 I’m busy building learning advanced stuffs and building tools people will use.
+ 
 - 👯 I’m looking to collaborate on bigger projects...
 
-Am open for collaboration as am very interested to helping make several solutions come together and achieve 
+Am open for collaboration as am very interested to helping build solutions, and achieve 
 Commendable user satisfaction....
-
-- 😰 I’m looking for help with getting a job as am currently not
-In any workspace, am building personal or useful developers resources
-While on my couch every day...
-
-
-- 💬 Ask me about what makes me write almost bugless and effective code.
-I almost write bugless code but while that can't be a fact am implicitly saying
-Am really good with my and I hear a lot of people say it...
-
-
-- 📫 How to reach me: ...
-Am every by the name of Friday candour, it's a way of tracking me,
-
-But on Gmail I use the weirdest email ever : fridaymaxtour@gmail.com
-Instagram, Twitter, Pinterest, Facebook, and telegram which is my second home
-
-
-- 😄 Pronouns: ...
-
-I and he...
-
-- ⚡ Fun fact: ...
-
-The earth is not getting younger and most people don't care about it, we should take note that there's no other earth, no even close:
-
 
 support me on patreon: https://www.patreon.com/Fridaycandour
