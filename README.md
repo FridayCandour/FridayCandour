@@ -1,22 +1,29 @@
-#  It's quite beautiful that programming is still a thing, at least Bots hasn't found their place yet -@fridaycandour
+Hello 🤧, 
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [uiedbook.com](https://uiedbook.com/).
+# am Friday candour .
+
+A full-stack developer who wants to reshape tech.
+The opportunities are gradually coming and am making progress.
 
 ## 🔧 Technologies & Tools
 
-## projects
+#### - Linux user.
+#### - has competitive understanding and use of various programming languages 
+Like:
+  
+  - JavaScript/typescript (web tech guru, built my own tools)
+  - dart/flutter (🤧, dart is cool)
+  - average on golang, zig and rust. (These are big part of the future in my opinion)
+
+#### - Used some few JavaScript frameworks and libraries
+
+On the frontend and backend.
+
+
+## most active project
 
 <a href="https://github.com/fridaycandour/cradova">
 <h3>Cradova web frame work base project</h3>
-</a> 
-
-<a href="https://github.com/fridaycandour/uiedbook.js">
-<h3>Uiedbook base project</h3>
-</a> 
-
-
-<a href="https://github.com/fridaycandour/jsonDB">
-<h3>JsonDB data base project</h3>
 </a> 
 
 
@@ -40,9 +47,9 @@ Caugth me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/uiedbook
+[1]: https://mobile.twitter.com/fridaycandour
 [2]: https://github.com/fridaycandour
-[3]: https://www.linkedin.com/in/uiedbook/
+[3]: https://www.linkedin.com/in/friday-candour-8a18011a5
 
 
 
@@ -53,11 +60,10 @@ Caugth me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 Here are some ideas to get you started:
 -->
 
- 🔭 I’m busy building learning advanced stuffs and building tools people will use.
+ 🔭 Currently building & learning tools for the JavaScript community.
  
 - 👯 I’m looking to collaborate on bigger projects...
 
-Am open for collaboration as am very interested to helping build solutions, and achieve 
-Commendable user satisfaction....
+### Am open for jobs and collaboration as am very interested to helping build solutions, solve problems.
 
 support me on patreon: https://www.patreon.com/Fridaycandour
