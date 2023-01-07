@@ -1,8 +1,8 @@
-Hello 🤧, 
+Hello there, 
 
-# am Friday candour .
+# Am Friday candour .
 
-A full-stack developer who wants to reshape tech.
+A smart developer who wants to reshape tech.
 The opportunities are gradually coming and am making progress.
 
 ## 🔧 Technologies & Tools
