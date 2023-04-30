@@ -1,35 +1,29 @@
-Hello there, 
+Hello there,
 
 # Am Friday candour .
 
-A smart developer who wants to reshape tech.
-The opportunities are gradually coming and am making progress.
+A smart developer who's passionate about reshaping tech.
+I'm excited to share my progress as I continue to explore new opportunities.
+
 
 ## 🔧 Technologies & Tools
 
-#### - Linux user.
-#### - has competitive understanding and use of various programming languages 
-Like:
-  
-  - JavaScript/typescript (web tech guru, built my own tools)
-  - dart/flutter (🤧, dart is cool)
-  - average on golang, zig and rust. (These are big part of the future in my opinion)
-
-#### - Used some few JavaScript frameworks and libraries
-
-On the frontend and backend.
+  - I'm a Linux user and have experience with a range of programming languages, including:
+  - JavaScript/TypeScript (I've built many own tools in this language)
+  - I've worked with various JavaScript frameworks and libraries for both front-end and back-end development.
+  - Dart/Flutter (cross platform mobile development)
+  - I'm also proficient in Golang and Zig.
 
 
 ## most active project
 
-<a href="https://github.com/fridaycandour/cradova">
-<h3>Cradova web frame work base project</h3>
-</a> 
-
+ [Cradova web framework](https://github.com/fridaycandour/cradova) is a web development framework for building Single Page Applications and PWAs.
+ 
+ It's a fast, simple and modern, it's designed to make performant web apps.
 
 ## 🤝 Contact Me
 
-Caugth me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+Caugth me on
 
 <a href="https://api.whatsapp.com/send?phone=2349131131725&text=Hello%20Friday,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
@@ -52,18 +46,11 @@ Caugth me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 [3]: https://www.linkedin.com/in/friday-candour-8a18011a5
 
 
-
-
-
-<!--
-**FridayCandour/FridayCandour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-
- 🔭 Currently building & learning tools for the JavaScript community.
+ 🔭 Currently building tools for the JavaScript community.
  
 - 👯 I’m looking to collaborate on bigger projects...
 
 ### Am open for jobs and collaboration as am very interested to helping build solutions, solve problems.
 
-support me on patreon: https://www.patreon.com/Fridaycandour
+If you'd like to support me, consider becoming a patron on [Patreon](https://www.patreon.com/Fridaycandour). 
+
