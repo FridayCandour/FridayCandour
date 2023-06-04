@@ -1,6 +1,6 @@
 Hello there,
 
-# Am Friday candour .
+# I am Friday candour .
 
 A smart developer who's passionate about reshaping tech.
 I'm excited to share my progress as I continue to explore new opportunities.
