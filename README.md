@@ -1,8 +1,8 @@
 Hello there,
 
-# I am Friday candour .
+# I am Friday candour.
 
-A smart developer who's passionate about reshaping tech.
+I Am passionate about reshaping tech.
 I'm excited to share my progress as I continue to explore new opportunities.
 
 
@@ -22,12 +22,8 @@ I'm excited to share my progress as I continue to explore new opportunities.
  It's a fast, simple and modern, it's designed to make performant web apps.
 
 ## 🤝 Contact Me
+ 
 
-Caugth me on
-
-<a href="https://api.whatsapp.com/send?phone=2349131131725&text=Hello%20Friday,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
-</a>
 <a href="https://www.twitter.com/fridaycandour" alt="Follow Me on Twitter"> 
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
