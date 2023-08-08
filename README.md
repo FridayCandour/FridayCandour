@@ -1,28 +1,23 @@
-Hello there,
+# Hi there! 👋 I'm Friday Candour.
 
-# I am Friday candour.
+Passionate about reshaping the tech landscape, I'm on a journey of continuous exploration and learning.
 
-I Am passionate about reshaping tech.
-I'm excited to share my progress as I continue to explore new opportunities.
+## 🚀 Technologies & Tools
 
+- 🐧 I'm a Linux enthusiast with experience across a spectrum of programming languages:
+  - JavaScript/TypeScript (Crafting tools and applications)
+  - Front-end and back-end development with various JavaScript frameworks and libraries
+  - Dart/Flutter (Crafting cross-platform mobile experiences)
+  - Proficient in Golang and Zig, exploring new horizons.
 
-## 🔧 Technologies & Tools
+## 🛠️ Featured Project
 
-  - I'm a Linux user and have experience with a range of programming languages, including:
-  - JavaScript/TypeScript (I've built many own tools in this language)
-  - I've worked with various JavaScript frameworks and libraries for both front-end and back-end development.
-  - Dart/Flutter (cross platform mobile development)
-  - I'm also proficient in Golang and Zig.
+[![Cradova Web Framework](https://github-readme-stats.vercel.app/api/pin/?username=fridaycandour&repo=cradova)](https://github.com/fridaycandour/cradova)
 
+[Cradova Web Framework](https://github.com/fridaycandour/cradova) - Empowering the creation of Single Page Applications and PWAs.
+Fast, simple, and modern – designed for high-performance web apps.
 
-## most active project
-
- [Cradova web framework](https://github.com/fridaycandour/cradova) is a web development framework for building Single Page Applications and PWAs.
- 
- It's a fast, simple and modern, it's designed to make performant web apps.
-
-## 🤝 Contact Me
- 
+## 📬 Get in Touch
 
 <a href="https://www.twitter.com/fridaycandour" alt="Follow Me on Twitter"> 
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
@@ -34,7 +29,6 @@ I'm excited to share my progress as I continue to explore new opportunities.
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-
 <!-- links to your social media accounts -->
 
 [1]: https://mobile.twitter.com/fridaycandour
@@ -42,11 +36,14 @@ I'm excited to share my progress as I continue to explore new opportunities.
 [3]: https://www.linkedin.com/in/friday-candour-8a18011a5
 
 
- 🔭 Currently building tools for the JavaScript community.
- 
-- 👯 I’m looking to collaborate on bigger projects...
+## 💡 Currently...
 
-### Am open for jobs and collaboration as am very interested to helping build solutions, solve problems.
+Building innovative tools for the JavaScript community, with an insatiable appetite for learning.
 
-If you'd like to support me, consider becoming a patron on [Patreon](https://www.patreon.com/Fridaycandour). 
+## 👯 Collaboration & Opportunities
+
+- 🌟 Open to collaborations on ambitious projects.
+- 🔍 Actively seeking job opportunities to contribute to impactful solutions and problem-solving.
+
+If you're excited about my journey, consider supporting me on [Patreon](https://www.patreon.com/Fridaycandour). Your support means the world!
 
