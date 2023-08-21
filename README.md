@@ -29,6 +29,9 @@ Fast, simple, and modern – designed for high-performance web apps.
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 
+<a href="https://api.whatsapp.com/send?phone=2349131131725&text=Hello%20Friday,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a> 
 <!-- links to your social media accounts -->
 
 [1]: https://mobile.twitter.com/fridaycandour
