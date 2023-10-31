@@ -22,7 +22,7 @@ Fast, simple, and modern – designed for high-performance web apps.
 <a href="https://www.twitter.com/fridaycandour" alt="Follow Me on Twitter"> 
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/uiedbook" alt="Connect on LinkedIn"> 
+<a href="https://www.linkedin.com/in/friday-candour-8a18011a5/" alt="Connect on LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
 <a href="mailto:fridaycandours@gmail.com">
