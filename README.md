@@ -10,12 +10,16 @@ Passionate about reshaping the tech landscape, I'm on a journey of continuous ex
   - Dart/Flutter (Crafting cross-platform mobile experiences)
   - Proficient in Golang and Zig, exploring new horizons.
 
-## 🛠️ Featured Project
+## 🛠️ Featured Projects
 
 [![Cradova Web Framework](https://github-readme-stats.vercel.app/api/pin/?username=fridaycandour&repo=cradova)](https://github.com/fridaycandour/cradova)
 
-[Cradova Web Framework](https://github.com/fridaycandour/cradova) - Empowering the creation of Single Page Applications and PWAs.
+[Cradova](https://github.com/fridaycandour/cradova) - Empowering the creation of Single Page Applications and PWAs.
 Fast, simple, and modern – designed for high-performance web apps.
+
+[![Exabase DBMS](https://github-readme-stats.vercel.app/api/pin/?username=Uiedbook&repo=Exabase)](https://github.com/Uiedbook/Exabase)
+
+[Exabase](https://github.com/Uiedbook/Exabase) - A scaling focused distributed nosql database with surprising performance and strong data consistency.
 
 ## 📬 Get in Touch
 
