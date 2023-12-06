@@ -19,7 +19,11 @@ Fast, simple, and modern – designed for high-performance web apps.
 
 [![Exabase DBMS](https://github-readme-stats.vercel.app/api/pin/?username=Uiedbook&repo=Exabase)](https://github.com/Uiedbook/Exabase)
 
-[Exabase](https://github.com/Uiedbook/Exabase) - A scaling focused distributed nosql database with surprising performance and strong data consistency.
+[Exabase DBMS](https://github.com/Uiedbook/Exabase) - A scaling focused distributed nosql database with surprising performance and strong data consistency.
+
+[![JetPath](https://github-readme-stats.vercel.app/api/pin/?username=Uiedbook&repo=JetPath)](https://github.com/Uiedbook/JetPath)
+
+[JetPath](https://github.com/Uiedbook/JetPath) - A fast and minimalist framework for Node, Deno and Bun.js. Embrace a new server app DX with speed included.
 
 ## 📬 Get in Touch
 
