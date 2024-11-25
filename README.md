@@ -1,13 +1,13 @@
 # Hi there! 👋 I am Friday Candour.
 
-Passionate about reshaping the tech landscape, with continuous exploration, learning, rebuilding the 'wheel' and striving in creativity.
+Passionate about reshaping the tech landscape, with continuous exploration, learning, rebuilding the "wheels" and striving in creativity.
 
 ## 🚀 Technologies & Tools
 
-- 🐧 I'm a Linux enthusiast with experience across many of programming languages but most expecially:
+- 🐧 I'm a Linux enthusiast with experience across some languages but most expecially:
   - JavaScript/TypeScript (Crafting tools and applications)
-  - Front-end and back-end development with various JavaScript frameworks and libraries (React, Express ..., you name it)
-  - Dart/Flutter (Crafting cross-platform mobile experiences)
+  - Front-end and back-end development with various frameworks and libraries (Golang, React, Express, ..., you name it)
+  - React Native (Crafting cross-platform mobile experiences)
   - Proficient in C, Golang and Zig, exploring new horizons.
 
 ## 🛠️ Featured Projects
