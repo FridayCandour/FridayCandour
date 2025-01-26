@@ -5,10 +5,10 @@ Passionate about reshaping the tech landscape, with continuous exploration, lear
 ## 🚀 Technologies & Tools
 
 - 🐧 I'm a Linux enthusiast with experience across some languages but most expecially:
-  - JavaScript/TypeScript (Crafting tools and applications)
-  - Front-end and back-end development with various frameworks and libraries (Golang, React, Express, ..., you name it)
-  - React Native (Crafting cross-platform mobile experiences)
-  - Proficient in C, Golang and Zig, exploring new horizons.
+  - JavaScript/TypeScript: Building Web software, tools and applications.
+  - Front-end and back-end development with various frameworks and libraries (Golang, React, Express, Laravel and C# ...).
+  - React Native and Flutter: Creating cross-platform mobile experiences with React Native and Flutter.
+  - Golang and Zig: Mastering efficient and high-performance programming.
 
 ## 🛠️ Featured Projects
 
@@ -19,7 +19,7 @@ Fast, simple, and modern – designed for high-performance web apps.
 
 [![Exabase DBMS](https://github-readme-stats.vercel.app/api/pin/?username=Uiedbook&repo=Exabase)](https://github.com/Uiedbook/Exabase)
 
-[Exabase DBMS](https://github.com/Uiedbook/Exabase) - A scaling focused distributed nosql database with surprising performance and strong data consistency.
+[Exabase DBMS](https://github.com/Uiedbook/Exabase) - A scaling focused distributed nosql database with good performance and strong data consistency.
 
 [![JetPath](https://github-readme-stats.vercel.app/api/pin/?username=Uiedbook&repo=JetPath)](https://github.com/Uiedbook/JetPath)
 
@@ -56,4 +56,6 @@ Building innovative tools for the  tech ecosystem, with an insatiable appetite f
 - 🌟 Open to collaborations on ambitious projects.
 - 🔍 Actively seeking job opportunities to contribute to impactful solutions and problem-solving businesses.
 
-If you're excited about my journey and things i have built, you can consider supporting me. Glaciers!!
+⭐ Support My Work
+
+If you're excited about my journey and the projects I've built, consider supporting me! Contributions, feedback, and collaborations are always welcome. Let's reshape the future together. 🚀
