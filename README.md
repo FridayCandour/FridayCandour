@@ -17,13 +17,13 @@ Passionate about reshaping the tech landscape, with continuous exploration, lear
 [Cradova](https://github.com/fridaycandour/cradova) - Empowering the creation of Single Page Applications and PWAs.
 Fast, simple, and modern – designed for high-performance web apps.
 
-[![Exabase DBMS](https://github-readme-stats.vercel.app/api/pin/?username=Uiedbook&repo=Exabase)](https://github.com/Uiedbook/Exabase)
+[![Exabase DBMS](https://github-readme-stats.vercel.app/api/pin/?username=Uiedbook&repo=Exabase)](https://github.com/Codedynasty-dev/Exabase)
 
-[Exabase DBMS](https://github.com/Uiedbook/Exabase) - A scaling focused distributed nosql database with good performance and strong data consistency.
+[Exabase DBMS](https://github.com/Codedynasty-dev/Exabase) - A scaling focused distributed nosql database with good performance and strong data consistency.
 
-[![JetPath](https://github-readme-stats.vercel.app/api/pin/?username=Uiedbook&repo=JetPath)](https://github.com/Uiedbook/JetPath)
+[![JetPath](https://github-readme-stats.vercel.app/api/pin/?username=Uiedbook&repo=JetPath)](https://github.com/Codedynasty-dev/JetPath)
 
-[JetPath](https://github.com/Uiedbook/JetPath) - A fast and minimalist framework for Node, Deno and Bun.js. Embrace a new server app DX with speed included.
+[JetPath](https://github.com/Codedynasty-dev/JetPath) - A fast and minimalist framework for Node, Deno and Bun.js. Embrace a new server app DX with speed included.
 
 ## 📬 Get in Touch
 
