@@ -12,16 +12,16 @@ Passionate about reshaping the tech landscape, with continuous exploration, lear
 
 ## 🛠️ Featured Projects
 
-[![Cradova Web Framework](https://github-readme-stats.vercel.app/api/pin/?username=fridaycandour&repo=cradova)](https://github.com/fridaycandour/cradova)
+[![Cradova Web Framework](https://github-readme-stats.vercel.app/api/pin/?username=Codedynasty-dev&repo=cradova)](https://github.com/Codedynasty-dev/cradova)
 
-[Cradova](https://github.com/fridaycandour/cradova) - Empowering the creation of Single Page Applications and PWAs.
+[Cradova](https://github.com/Codedynasty-dev/cradova) - Empowering the creation of Single Page Applications and PWAs.
 Fast, simple, and modern – designed for high-performance web apps.
 
-[![Exabase DBMS](https://github-readme-stats.vercel.app/api/pin/?username=Uiedbook&repo=Exabase)](https://github.com/Codedynasty-dev/Exabase)
+[![Exabase DBMS](https://github-readme-stats.vercel.app/api/pin/?username=Codedynasty-dev&repo=Exabase)](https://github.com/Codedynasty-dev/Exabase)
 
 [Exabase DBMS](https://github.com/Codedynasty-dev/Exabase) - A scaling focused distributed nosql database with good performance and strong data consistency.
 
-[![JetPath](https://github-readme-stats.vercel.app/api/pin/?username=Uiedbook&repo=JetPath)](https://github.com/Codedynasty-dev/JetPath)
+[![JetPath](https://github-readme-stats.vercel.app/api/pin/?username=Codedynasty-dev&repo=JetPath)](https://github.com/Codedynasty-dev/JetPath)
 
 [JetPath](https://github.com/Codedynasty-dev/JetPath) - A fast and minimalist framework for Node, Deno and Bun.js. Embrace a new server app DX with speed included.
 
@@ -40,6 +40,7 @@ Fast, simple, and modern – designed for high-performance web apps.
 <a href="https://api.whatsapp.com/send?phone=2348166948755&text=Hello%20Friday,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a> 
+
 <!-- links to your social media accounts -->
 
 [1]: https://mobile.twitter.com/fridaycandour
