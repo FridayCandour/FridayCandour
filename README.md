@@ -1,11 +1,12 @@
 # Hi there! 👋 I’m Friday Candour
 
-Imagine a world where technology doesn’t just function—it inspires.
+ _Imagine a world where technology doesn’t just function—it inspires._
 <br>
 <br>
 
 I am Friday Candour, a tech Engineer on a mission to reshape the digital landscape.
-Ever since I first booted up a Linux machine, I’ve been hooked on the power of code to turn wild ideas into reality. Driven by curiosity and a passion for innovation, I create tools and solutions that solve problems.
+
+I’ve been hooked on the power of science to turn ideas into reality. Driven by curiosity and a passion for innovation, I create tools and solutions that solve problems.
 <br>
 <br>
 
