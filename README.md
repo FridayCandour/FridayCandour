@@ -24,13 +24,13 @@ My toolkit and my expertise are my superpower:
 
 ## Featured Projects
 
-Here’s where my passion meets action. These projects showcase my engineering skills and innovative spirit:
+These projects showcase my engineering skills and innovative spirit:
 
 <br>
 
 - **[Cradova](https://github.com/Codedynasty-dev/cradova)**  
   _Empowering developers to build lightning-fast Single Page Applications with ease._  
-  Inspired by vanilla javascript, Cradova is a framework that simplifies complexity. It’s fast, modern, and built for creativity.
+  Inspired by vanilla javascript, Cradova is a framework that simplifies complexity. It’s fast, modern.
 
 <br>
 <br>
@@ -41,7 +41,7 @@ Here’s where my passion meets action. These projects showcase my engineering s
 
 - **[Exabase DBMS](https://github.com/Codedynasty-dev/Exabase)**  
   _Enabling seamless scaling and data consistency in a distributed world._  
-  Think of Exabase as a symphony of nodes, each playing in perfect harmony—like emergent behavior in complex systems. This NoSQL database delivers performance and reliability, ready to power the data-driven future. thats said, it's still in active development.
+  Think of Exabase as a symphony of nodes, each forming a part of a bottomless database. This NoSQL database delivers performance and reliability, ready to power the data-driven future. thats said, it's still in active development.
 
 <br>
 <br>
@@ -53,8 +53,7 @@ Here’s where my passion meets action. These projects showcase my engineering s
 - **[JetPath](https://github.com/Codedynasty-dev/JetPath)**  
   _Accelerating server-side development with minimalist power._  
   JetPath is simplicity and blazingly speed for server-side applications— Built for Node, Deno, and Bun.js.
-  it makes server-side coding fast and fun. Ready to speed up your backend? Let’s make it happen!
-
+  it makes server-side coding fast and fun.
 <br>
 <br>
 
@@ -63,16 +62,14 @@ Here’s where my passion meets action. These projects showcase my engineering s
 <br>
 <br>
 
-**_No that's not all! check out more on this github [organization](https://github.com/CodeDynasty-dev)_**
+**_Check out more on this github [organization](https://github.com/CodeDynasty-dev)_**
 
-## My Approach
-
-Great software is a blends of creativity and quality. I tackle every project with a test driven development, exploring, refining and getting user feedback, delivering useful solutions to problems. Collaboration fuels me; I thrive when ideas flow freely and innovation becomes a team effort. Let’s work together!
+Great software is a blends of creativity and quality. I tackle every project with a test driven development, exploring, refining and getting user feedback, delivering useful solutions to problems. Collaboration fuels me; I thrive when ideas flow freely and innovation becomes a team effort.
 
 <br>
 <br>
 
-## What’s Cooking?
+## What’s working on?
 
 - Building tools that empower creators and techies.
 - Diving into distributed systems and performance optimization.
@@ -84,7 +81,7 @@ Great software is a blends of creativity and quality. I tackle every project wit
 
 ## 📬 Let’s Connect and Create!
 
-Got a bold idea, a tricky problem, or just want to geek out over code? hit me on my socials.
+Hit me on my socials.
 <br>
 <br>
 
@@ -108,8 +105,5 @@ Got a bold idea, a tricky problem, or just want to geek out over code? hit me on
 
 ## 🚀 Join My Journey
 
-If my work sparks something in you, let’s amplify it together! Star my repos, share your feedback, or partner with me to reshape the future. Your support drives innovation—.
+If my work sparks something in you, let’s work together! Star my repos, share your feedback, or partner with me to reshape the future. Your support drives innovation—.
 
-<br>
-
-**_"Infinite scrolling won't solve your tech debt - I will."_**
