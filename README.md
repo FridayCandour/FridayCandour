@@ -1,4 +1,4 @@
-# Hi there! 👋 I’m Friday Candour
+# Friday Candour
 
  _Imagine a world where technology doesn’t just function—it inspires._
 <br>
