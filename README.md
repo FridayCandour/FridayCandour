@@ -50,7 +50,7 @@ These projects are my core contributions to open source:
 
 <br>
 
-- **[JetPath](https://github.com/Codedynasty-dev/JetPath)**  
+- **[Jetpath](https://github.com/Codedynasty-dev/Jetpath)**  
   _Accelerating server-side development with minimalist power._  
   JetPath is a simplicity and highly performant API framework that employs smart convertions over tedious cpnfigurations, Built for Node, Deno, and Bun.js.
   it makes server-side coding fast, simple and fun again.
