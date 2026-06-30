@@ -14,10 +14,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FridayCandour&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=FridayCandour&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://streak-stats.demolab.com/?user=FridayCandour&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FridayCandour&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FridayCandour&layout=compact&theme=tokyonight&hide_border=true" /> -->
 
 </div>
 
@@ -28,14 +28,6 @@
 ### Tech Stack
 
 <img src="https://skillicons.dev/icons?i=c,ts,js,react,nextjs,nodejs,bun,go,linux,git,vscode&theme=dark" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=FridayCandour&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
@@ -61,7 +53,7 @@ These are my core open source contributions — built from scratch, not forked:
 **[Cradova](https://github.com/Codedynasty-dev/cradova)**
 A lightweight framework for building fast Single Page Applications, inspired by vanilla JavaScript rather than abstracted away from it.
 
-[![Cradova](https://github-readme-stats.vercel.app/api/pin/?username=Codedynasty-dev&repo=cradova&theme=tokyonight&hide_border=true)](https://github.com/Codedynasty-dev/cradova)
+[![Cradova](https://github-readme-stats-fast.vercel.app/api/pin/?username=Codedynasty-dev&repo=cradova&theme=tokyonight&hide_border=true)](https://github.com/Codedynasty-dev/cradova)
 
 </td>
 <td width="50%">
@@ -69,7 +61,7 @@ A lightweight framework for building fast Single Page Applications, inspired by 
 **[Jetpath](https://github.com/Codedynasty-dev/Jetpath)**
 A minimalist, high-performance API framework for Node, Deno, and Bun — smart conventions over tedious configuration.
 
-[![Jetpath](https://github-readme-stats.vercel.app/api/pin/?username=Codedynasty-dev&repo=JetPath&theme=tokyonight&hide_border=true)](https://github.com/Codedynasty-dev/Jetpath)
+[![Jetpath](https://github-readme-stats-fast.vercel.app/api/pin/?username=Codedynasty-dev&repo=JetPath&theme=tokyonight&hide_border=true)](https://github.com/Codedynasty-dev/Jetpath)
 
 </td>
 </tr>
@@ -79,7 +71,7 @@ A minimalist, high-performance API framework for Node, Deno, and Bun — smart c
 **[Exabase](https://github.com/Codedynasty-dev/Exabase)**
 A NoSQL database engine designed to scale infinitely while staying small enough to embed directly in an application. Still in active development.
 
-[![Exabase](https://github-readme-stats.vercel.app/api/pin/?username=Codedynasty-dev&repo=Exabase&theme=tokyonight&hide_border=true)](https://github.com/Codedynasty-dev/Exabase)
+[![Exabase](https://github-readme-stats-fast.vercel.app/api/pin/?username=Codedynasty-dev&repo=Exabase&theme=tokyonight&hide_border=true)](https://github.com/Codedynasty-dev/Exabase)
 
 </td>
 <td width="50%">
