@@ -1,12 +1,43 @@
-# Hi, I'm Friday Candour 👋
+<div align="center">
 
-**Software Engineer building the infrastructure underneath modern apps — frameworks, databases, and the tools developers actually want to use.**
+# Friday Candour
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/friday-candour-8a18011a5/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/fridaycandour)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fridaycandours@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=2348166948755&text=Hello%20Friday,%20I%20got%20your%20contact%20from%20your%20Github%20profile)
+
+
+</div>
 
 <br>
 
-I got into engineering through curiosity, and I've stayed for the problem-solving. I don't just consume tools — I build them. My open source work spans frontend frameworks, backend frameworks, and a database engine, because I'd rather understand a system end to end than treat any layer as a black box. If it's slow, overcomplicated, or has too much boilerplate, I'll usually try to fix that — and then open-source the fix.
+<div align="center">
 
-I'm currently looking for opportunities where I can bring that same depth to a team's product or infrastructure.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FridayCandour&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=FridayCandour&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FridayCandour&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=c,ts,js,react,nextjs,nodejs,bun,go,linux,git,vscode&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=FridayCandour&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+
+</div>
 
 <br>
 
@@ -19,40 +50,46 @@ I'm currently looking for opportunities where I can bring that same depth to a t
 
 <br>
 
-## Technologies I Use
-
-**Languages:** TypeScript (primary), Go, Zig
-
-**Frontend:** React, Next.js
-
-**Backend:** Express, Bun.js, and my own framework, Jetpath
-
-**Mobile:** React Native
-
-**Systems:** Linux (daily driver — currently running Arch, btw)
-
-<br>
-
 ## Featured Projects
 
 These are my core open source contributions — built from scratch, not forked:
 
-### [Cradova](https://github.com/Codedynasty-dev/cradova)
-A lightweight framework for building fast Single Page Applications, inspired by vanilla JavaScript rather than abstracted away from it. The goal: full SPA power without the usual framework overhead.
+<table>
+<tr>
+<td width="50%">
 
-[![Cradova Web Framework](https://github-readme-stats.vercel.app/api/pin/?username=Codedynasty-dev&repo=cradova)](https://github.com/Codedynasty-dev/cradova)
+**[Cradova](https://github.com/Codedynasty-dev/cradova)**
+A lightweight framework for building fast Single Page Applications, inspired by vanilla JavaScript rather than abstracted away from it.
 
-### [Jetpath](https://github.com/Codedynasty-dev/Jetpath)
-A minimalist, high-performance API framework for Node, Deno, and Bun. It favors smart conventions over tedious configuration, so server-side development stays fast and stays fun.
+[![Cradova](https://github-readme-stats.vercel.app/api/pin/?username=Codedynasty-dev&repo=cradova&theme=tokyonight&hide_border=true)](https://github.com/Codedynasty-dev/cradova)
 
-[![JetPath](https://github-readme-stats.vercel.app/api/pin/?username=Codedynasty-dev&repo=JetPath)](https://github.com/Codedynasty-dev/JetPath)
+</td>
+<td width="50%">
 
-### [Exabase](https://github.com/Codedynasty-dev/Exabase)
-A NoSQL database engine designed to scale infinitely while staying small enough to embed directly in an application. Built for data consistency in distributed environments. Still in active development.
+**[Jetpath](https://github.com/Codedynasty-dev/Jetpath)**
+A minimalist, high-performance API framework for Node, Deno, and Bun — smart conventions over tedious configuration.
 
-[![Exabase DBMS](https://github-readme-stats.vercel.app/api/pin/?username=Codedynasty-dev&repo=Exabase)](https://github.com/Codedynasty-dev/Exabase)
+[![Jetpath](https://github-readme-stats.vercel.app/api/pin/?username=Codedynasty-dev&repo=JetPath&theme=tokyonight&hide_border=true)](https://github.com/Codedynasty-dev/Jetpath)
 
-**See everything I'm working on at [CodeDynasty-dev](https://github.com/CodeDynasty-dev).**
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Exabase](https://github.com/Codedynasty-dev/Exabase)**
+A NoSQL database engine designed to scale infinitely while staying small enough to embed directly in an application. Still in active development.
+
+[![Exabase](https://github-readme-stats.vercel.app/api/pin/?username=Codedynasty-dev&repo=Exabase&theme=tokyonight&hide_border=true)](https://github.com/Codedynasty-dev/Exabase)
+
+</td>
+<td width="50%">
+
+**More on [CodeDynasty-dev →](https://github.com/CodeDynasty-dev)**
+That's the org where all of these live, along with everything else I'm shipping. Stars and feedback are always welcome.
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -64,23 +101,10 @@ A NoSQL database engine designed to scale infinitely while staying small enough 
 
 <br>
 
-## Let's Connect
+<div align="center">
 
-Open to backend, full-stack, and systems engineering roles — and always open to a good technical conversation.
+### Open to backend, full-stack, and systems engineering roles.
 
-<p align="left">
-<a href="https://www.linkedin.com/in/friday-candour-8a18011a5/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.twitter.com/fridaycandour">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="mailto:fridaycandours@gmail.com">
-  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://api.whatsapp.com/send?phone=2348166948755&text=Hello%20Friday,%20I%20got%20your%20contact%20from%20your%20Github%20profile">
-  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-</p>
+If a project here is useful to you, a star helps more than you'd think — and if you want to build something together, my inbox is open.
 
-If any of these projects are useful to you, a star helps more than you'd think. And if you want to build something together, my inbox is open.
+</div>
