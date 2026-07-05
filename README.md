@@ -12,23 +12,76 @@
 
 <br>
 
-<div align="center">
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=fridaycandour&label=Profile%20views&color=0e75b6&style=flat" alt="fridaycandour" /> 
+</p>
 
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=FridayCandour&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com/?user=FridayCandour&theme=tokyonight&hide_border=true" />
-
-<!-- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FridayCandour&layout=compact&theme=tokyonight&hide_border=true" /> -->
-
+<div>
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V1OGh0M2JzcjlkaTY1ZmxudHJzZ2F5YjM4bjZlaXVueXAxcjc5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llKJGxQ1ESmac/giphy.gif" alt="Coding GIF" />
 </div>
 
-<br>
+<pre>
+<b><font color="#2ea44f">codedynasty@terminal:~#</font> cat about_me.md</b>
+──────────────────────────────────────────────────────────
+■ <b>Current Focus:</b> High-performance architectures, zero-boilerplate frameworks
+■ <b>Collaborate:</b>   Cross-runtime API design, low-level optimization, & systems systems
+■ <b>Ask Me About:</b>  Bun, C, TypeScript, SQLite internals, and distributed databases
+■ <b>Hear Me Out:</b>   If it needs boilerplates, it's a design flaw.
+■ <b>System Status:</b> Moving fast, breaking things, and building runtimes.
+──────────────────────────────────────────────────────────
+</pre>
 
-<div align="center">
+![Isometric Calendar](metrics.plugin.isocalendar.svg)
 
-### Tech Stack
+### Tech Stack & Core Toolkit
 
-<img src="https://skillicons.dev/icons?i=c,ts,js,react,nextjs,nodejs,bun,go,linux,git,vscode&theme=dark" />
+<div align="left">
+  <!-- Core Languages & Runtimes -->
+  <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+  <img width="12" />
+  
+  <!-- Databases & Backends -->
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo" />
+  <img width="12" />
 
+  <!-- Frontend & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img width="12" />
+
+  <!-- Environment & DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
 
 <br>
@@ -93,7 +146,7 @@ That's the org where all of these live, along with everything else I'm shipping.
 
 <br>
 
-<div align="center">
+<div>
 
 ### Open to backend, full-stack, and systems engineering roles.
 
