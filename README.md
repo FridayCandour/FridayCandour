@@ -10,25 +10,6 @@
 
 </div>
 
-<br>
-
-<div>
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V1OGh0M2JzcjlkaTY1ZmxudHJzZ2F5YjM4bjZlaXVueXAxcjc5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llKJGxQ1ESmac/giphy.gif" alt="Coding GIF" />
-</div>
-
-<pre>
-<b><font color="#2ea44f">codedynasty@terminal:~#</font> cat about_me.md</b>
-──────────────────────────────────────────────────────────
-■ <b>Current Focus:</b> High-performance architectures, zero-boilerplate frameworks
-■ <b>Collaborate:</b>   Cross-runtime API design, low-level optimization, & systems systems
-■ <b>Ask Me About:</b>  Bun, C, TypeScript, SQLite internals, and distributed databases
-■ <b>Hear Me Out:</b>   If it needs boilerplates, it's a design flaw.
-■ <b>System Status:</b> Moving fast, breaking things, and building runtimes.
-──────────────────────────────────────────────────────────
-</pre>
-
-![Isometric Calendar](metrics.plugin.isocalendar.svg)
-
 ### Tech Stack & Core Toolkit
 
 <div align="left">
