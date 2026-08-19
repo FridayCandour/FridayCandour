@@ -29,31 +29,24 @@ These are my core open source contributions — built from scratch, not forked:
 <tr>
 <td width="50%">
 
-**[Cradova](https://github.com/Codedynasty-dev/cradova)**
-A lightweight framework for building fast Single Page Applications, inspired by vanilla JavaScript rather than abstracted away from it.
-
-[![Cradova](https://github-readme-stats-fast.vercel.app/api/pin/?username=Codedynasty-dev&repo=cradova&theme=tokyonight&hide_border=true)](https://github.com/Codedynasty-dev/cradova)
-
-</td>
-<td width="50%">
-
 **[Jetpath](https://github.com/Codedynasty-dev/Jetpath)**
 A minimalist, high-performance API framework for Node, Deno, and Bun — smart conventions over tedious configuration.
 
 [![Jetpath](https://github-readme-stats-fast.vercel.app/api/pin/?username=Codedynasty-dev&repo=JetPath&theme=tokyonight&hide_border=true)](https://github.com/Codedynasty-dev/Jetpath)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
-**[Exabase](https://github.com/Codedynasty-dev/Exabase)**
-A NoSQL database engine designed to scale infinitely while staying small enough to embed directly in an application. Still in active development.
+**[Cradova](https://github.com/Codedynasty-dev/cradova)**
+A lightweight framework for building fast Single Page Applications, inspired by vanilla JavaScript rather than abstracted away from it.
 
-[![Exabase](https://github-readme-stats-fast.vercel.app/api/pin/?username=Codedynasty-dev&repo=Exabase&theme=tokyonight&hide_border=true)](https://github.com/Codedynasty-dev/Exabase)
+[![Cradova](https://github-readme-stats-fast.vercel.app/api/pin/?username=Codedynasty-dev&repo=cradova&theme=tokyonight&hide_border=true)](https://github.com/Codedynasty-dev/cradova)
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+
+<td width="100%">
 
 **More on [CodeDynasty-dev →](https://github.com/CodeDynasty-dev)**
 That's the org where all of these live, along with everything else I'm shipping. Stars and feedback are always welcome.
