@@ -44,16 +44,12 @@ A lightweight framework for building fast Single Page Applications, inspired by 
 
 </td>
 </tr>
-<tr>
 
-<td width="100%">
+</table>
 
 **More on [CodeDynasty-dev →](https://github.com/CodeDynasty-dev)**
 That's the org where all of these live, along with everything else I'm shipping. Stars and feedback are always welcome.
 
-</td>
-</tr>
-</table>
 
 <br>
 
